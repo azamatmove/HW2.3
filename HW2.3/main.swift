@@ -18,3 +18,4 @@ print(test.Percent())
 print(test.Sinus())
 print(test.Cosinus())
 print(test.SquareRoot())
+//comment
